@@ -4,6 +4,8 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
+    <>
     <h1> Simbora yoso yoso vs yami yami</h1>
+    </>
   )
 }
